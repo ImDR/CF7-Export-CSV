@@ -2,7 +2,8 @@
 
 **CF7 Export CSV** is a plugin for storing data of Contact Form 7 forms into the database and exporting data as **CSV files.** It is a free alternative of Contact Form 7 Database, Contact Form Submissions and CFDB Plugin. This plugin is totally free. There is no limit in adding form’s data into the database. You can add multiples form’s data into database.
 
-[Download](https://github.com/ImDR/CF7-Export-CSV/raw/master/cf7-export-csv.zip) [Available on Wordpress](https://wordpress.org/plugins/cf7-export-csv/)
+[Download](https://github.com/ImDR/CF7-Export-CSV/raw/master/cf7-export-csv.zip)
+[Available on Wordpress](https://wordpress.org/plugins/cf7-export-csv/)
 
 **Step 1:** Download [cf7-export-csv.zip](https://github.com/ImDR/CF7-Export-CSV/raw/master/cf7-export-csv.zip) and extract it from **wp-content\plugins** (plugin folder).
 
